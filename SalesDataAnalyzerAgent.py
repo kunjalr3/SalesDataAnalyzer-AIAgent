@@ -23,7 +23,7 @@ MODEL = "gpt-4o-mini"
 # Tool 1: Database Lookup
 
 
-TRANSACTION_DATA_FILE_PATH = 'data/Store_Sales_Price_Elasticity_Promotions_Data.parquet'
+TRANSACTION_DATA_FILE_PATH = 'Store_Sales_Price_Elasticity_Promotions_Data.parquet'
 
 
 SQL_GENERATION_PROMPT = """
